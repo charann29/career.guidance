@@ -1,0 +1,16 @@
+
+
+.checkBox {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin: 10px 0px;
+}
+.itemsSelectionPageUnderStand {
+  overflow: auto;
+  height: 50vh;
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 10px;
+  row-gap: 5px;
+}
